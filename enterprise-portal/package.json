@@ -1,0 +1,14 @@
+{
+  "name": "enterprise-portal",
+  "version": "1.0.0",
+  "description": "Enterprise Portal Website",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
